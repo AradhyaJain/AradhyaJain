@@ -1,10 +1,8 @@
-Here’s a GitHub profile description that aligns with the detailed information from your resume and highlights your skills, experience, and projects:
-
 Aradhya Jain
 
 Software Engineer | AI/ML Enthusiast | Full-Stack Developer
 📍 Washington, DC | 📧 aradhyajain229@gmail.com
-🔗 LinkedIn | GitHub
+🔗 [LinkedIn](https://www.linkedin.com/in/aradhyajain/)0 | GitHub
 
 I am a Software Engineer with over 4 years of experience in .NET, C#, Azure, and full-stack development. Currently pursuing a Master of Science in Computer Science at George Mason University, focusing on AI/ML, Deep Learning, and Software Engineering.
 
